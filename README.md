@@ -1,4 +1,6 @@
-I Use
+Now i'm just studying. Nothing more.
+
+I used:
 <p>
   <img alt='javascript' src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" alt="JavaScript Badge">
   <img alt='react' src='https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat'>
