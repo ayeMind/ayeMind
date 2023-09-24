@@ -16,7 +16,7 @@ I used:
   <img alt='tauri' src="https://img.shields.io/badge/Tauri-FFC131?logo=tauri&logoColor=000&style=flat" alt="Tauri Badge">
 </p>
 
-My tech stack (or what i actually know ^_^)
+My tech stack (or also what i actually know ^_^)
 <p>
   <img alt='javascript' src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" alt="JavaScript Badge">
   <img alt='react' src='https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat'>
