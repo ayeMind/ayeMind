@@ -19,8 +19,8 @@ I used:
 
 My tech stack (or also what i actually know ^_^)
 <p>
-  <img alt='javascript' src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" alt="JavaScript Badge">
+  <img alt='javascript' src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat">
   <img alt='react' src='https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat'>
-  <img alt='mobx' src="https://img.shields.io/badge/MobX-F95?logo=mobx&logoColor=fff&style=flat" alt="MobX Badge">  
-  <img alt='tailwindcss' src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat" alt="Tailwind CSS Badge">
+  <img alt='mobx' src="https://img.shields.io/badge/MobX-F95?logo=mobx&logoColor=fff&style=flat">  
+  <img alt='tailwindcss' src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat">
 </p>
